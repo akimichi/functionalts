@@ -1,0 +1,26 @@
+{
+  "name": "functionalts",
+  "version": "0.1.0",
+  "description": "typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akimichi/functionalts.git"
+  },
+  "keywords": [
+    "typescript",
+    "functional"
+  ],
+  "author": "Akimichi Tatsukawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akimichi/functionalts/issues"
+  },
+  "homepage": "https://github.com/akimichi/functionalts#readme",
+  "dependencies": {
+    "typescript": "5.5.4"
+  }
+}
